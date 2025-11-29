@@ -7,3 +7,13 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://wget.la/https://github.com/cokei521/dockeriptv/result -央视订阅.m3u
+https://wget.la/https://github.com/cokei521/dockeriptv/广东省中山市组播 广东电信.m3u
+https://wget.la/https://github.com/cokei521/dockeriptv/山东省济南市组播 山东电信.m3u
+https://wget.la/https://github.com/cokei521/dockeriptv/四川省乐山市组播 四川电信.m3u
+https://wget.la/https://github.com/cokei521/dockeriptv/山东省 威海市 移动酒店组.m3u
+https://wget.la/https://github.com/cokei521/dockeriptv/山东省临沂市酒店 山东电信.m3u
+https://wget.la/https://github.com/cokei521/dockeriptv/山东省潍坊市组播 山东电信.m3u
+https://wget.la/https://github.com/cokei521/dockeriptv/cokei521/山东省菏泽市组播channels_39.87.214.53_8188.m3u
+https://wget.la/https://github.com/cokei521/dockeriptv/山东省烟台市组播 山东电信.m3u
+https://zbds.org/tv/iptv4.m3u
